@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://adikhosla91.github.io/csb-14hedq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://adikhosla91.github.io/csb-14hedq/static/js/main.7df98d46.chunk.js",
+    "main.js.map": "https://adikhosla91.github.io/csb-14hedq/static/js/main.7df98d46.chunk.js.map",
+    "runtime-main.js": "https://adikhosla91.github.io/csb-14hedq/static/js/runtime-main.b3a0007b.js",
+    "runtime-main.js.map": "https://adikhosla91.github.io/csb-14hedq/static/js/runtime-main.b3a0007b.js.map",
+    "static/js/2.488eb6d6.chunk.js": "https://adikhosla91.github.io/csb-14hedq/static/js/2.488eb6d6.chunk.js",
+    "static/js/2.488eb6d6.chunk.js.map": "https://adikhosla91.github.io/csb-14hedq/static/js/2.488eb6d6.chunk.js.map",
+    "index.html": "https://adikhosla91.github.io/csb-14hedq/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://adikhosla91.github.io/csb-14hedq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.488eb6d6.chunk.js.LICENSE.txt": "https://adikhosla91.github.io/csb-14hedq/static/js/2.488eb6d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3a0007b.js",
+    "static/js/2.488eb6d6.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7df98d46.chunk.js"
+  ]
+}
